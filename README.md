@@ -1,5 +1,14 @@
 # SintLucas Funnel
 
+## What do we do?
+
+- [ ] Building page semantically with HTML according to guidelines
+- [ ] Mobile first styling of the page
+- [ ] Making elements interactive with Javascript
+- [ ] You can convert CSS to a library such as postcss/scss
+- [ ] Work must be added to portfolio
+- [ ] Present your work to other developers
+
 ## Setup
 
 Before we start we have to do the following steps:
