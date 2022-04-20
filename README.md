@@ -32,7 +32,7 @@ Before we start we have to do the following steps:
 
 ## Design
 
-There is a [design](https://zpl.io/ewdAQ9N) that we can use for building the funnel.
+There is a [design](https://scene.zeplin.io/project/6254854ab3f4666ab11c6842) that we can use for building the funnel.
 
 ### Login
 
