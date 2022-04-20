@@ -2,7 +2,7 @@
 
 ## What do we do?
 
-- [ ] Building page semantically with HTML according to guidelines
+- [x] Building page semantically with HTML according to guidelines
 - [ ] Mobile first styling of the page
 - [ ] Making elements interactive with Javascript
 - [ ] You can convert CSS to a library such as postcss/scss
