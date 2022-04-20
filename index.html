@@ -7,7 +7,165 @@
     <title>Vite App</title>
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="/main.js"></script>
+    <header>
+      <div class="container">
+        <a href="#" title="funnel">funnel.</a>
+      </div>
+    </header>
+
+    <main>
+      <section>
+        <div class="container">
+          <h1>Some title</h1>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit vel
+            nostrum, perferendis repellat accusantium impedit natus doloribus,
+            earum voluptatum, voluptas deleniti hic similique quae! Dicta,
+            expedita nam! Molestias, neque dicta.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <header>
+          <div class="container">
+            <span>1</span>
+            Who are you?
+          </div>
+        </header>
+        <div class="container">
+          <form action="">
+            <fieldset>
+              <div>
+                <label for="firstname">First name</label>
+                <input type="text" id="firstname" />
+              </div>
+              <div>
+                <label for="lastname">Last name</label>
+                <input type="text" id="lastname" />
+              </div>
+
+              <div>
+                <button>Continue</button>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+
+      <section>
+        <header>
+          <div class="container">
+            <span>2</span>
+            What is your address?
+          </div>
+        </header>
+        <div class="container">
+          <form action="">
+            <fieldset>
+              <div>
+                <label for="zipcode">Zipcode</label>
+                <input type="text" id="zipcode" />
+              </div>
+              <div>
+                <label for="housenumber">Housenumber</label>
+                <input type="text" id="housenumber" class="small" />
+              </div>
+              <div>
+                <label for="street">Street</label>
+                <input type="text" id="street" />
+              </div>
+              <div>
+                <label for="city">City</label>
+                <input type="text" id="city" />
+              </div>
+
+              <div>
+                <button>Previous</button>
+                <button>Continue</button>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+
+      <section>
+        <header>
+          <div class="container">
+            <span>3</span>
+            What is your contact preference?
+          </div>
+        </header>
+        <div class="container">
+          <form action="">
+            <fieldset>
+              <div>
+                <div>
+                  <input type="radio" name="contact" id="telephone" />
+                  <label for="telephone">Telephone</label>
+                </div>
+                <div>
+                  <input type="radio" name="contact" id="email" />
+                  <label for="email">E-mail</label>
+                </div>
+              </div>
+              <div>
+                <label for="phonenumber">Telephone number</label>
+                <input type="number" id="phonenumber" />
+              </div>
+              <div>
+                <label for="emailaddress">E-mailaddress</label>
+                <input type="email" id="emailaddress" />
+              </div>
+
+              <div>
+                <button>Previous</button>
+                <button>Continue</button>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+
+      <section>
+        <header>
+          <div class="container">
+            <span>4</span>
+            Choose your product
+          </div>
+        </header>
+        <div class="container">
+          <div class="products">
+            <div class="product">
+              <header>Product 1</header>
+              <div class="content">
+                <ul>
+                  <li>Usp 1</li>
+                  <li>Usp 2</li>
+                  <li>Usp 3</li>
+                </ul>
+              </div>
+              <div>
+                <button>Choose this product</button>
+              </div>
+            </div>
+
+            <div class="product">
+              <header>Product 2</header>
+              <div class="content">
+                <ul>
+                  <li>Usp 1</li>
+                  <li>Usp 2</li>
+                  <li>Usp 3</li>
+                </ul>
+              </div>
+              <div>
+                <button>Choose this product</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
