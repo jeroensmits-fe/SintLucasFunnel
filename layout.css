@@ -1,0 +1,13 @@
+.layout {
+  margin-left: -16px;
+}
+.layout__item {
+  padding-left: 16px;
+  padding-bottom: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+}
