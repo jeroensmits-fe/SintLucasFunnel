@@ -38,3 +38,7 @@ There is a [design](https://scene.zeplin.io/project/6254854ab3f4666ab11c6842) th
 
 username: j.smits@sintlucas.nl
 password: sintLucas
+
+# CSS best practices
+
+[Presentation](https://docs.google.com/presentation/d/1VJn4QoFgR9opUvhYp73knRwFC6iknZ--3rsUSymYbRU/edit?usp=sharing)
