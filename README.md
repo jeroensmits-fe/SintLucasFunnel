@@ -42,3 +42,10 @@ password: sintLucas
 # CSS best practices
 
 [Presentation](https://docs.google.com/presentation/d/1VJn4QoFgR9opUvhYp73knRwFC6iknZ--3rsUSymYbRU/edit?usp=sharing)
+
+# Helpful links
+
+### CSS
+
+[CSS grid garden](https://cssgridgarden.com/#nl)
+[Flexbox froggy](https://flexboxfroggy.com/#nl)
