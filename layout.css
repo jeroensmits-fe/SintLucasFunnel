@@ -14,3 +14,23 @@
   grid-column-gap: 16px;
   grid-row-gap: 16px;
 }
+
+@media screen and (min-width: 768px) {
+  .layout__item {
+    width: 50%;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .layout__item {
+    width: 25%;
+  }
+
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
