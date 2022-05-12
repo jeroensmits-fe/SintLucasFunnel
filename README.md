@@ -43,6 +43,10 @@ password: sintLucas
 
 [Presentation](https://docs.google.com/presentation/d/1VJn4QoFgR9opUvhYp73knRwFC6iknZ--3rsUSymYbRU/edit?usp=sharing)
 
+# Javascript best practices
+
+[Presentation](https://docs.google.com/presentation/d/1KnFoPCingK3o6kh_LJnhdHst5dZVXM55_zatOGgWMBE/edit?usp=sharing)
+
 # Javascript assessment
 
 https://github.com/jeroensmits-fe/js-assessment
