@@ -51,6 +51,10 @@ password: sintLucas
 
 https://github.com/jeroensmits-fe/js-assessment
 
+# Javascript loop exercises
+
+https://github.com/jeroensmits-fe/js-loop-exercises
+
 # Helpful links
 
 ### CSS
