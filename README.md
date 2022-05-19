@@ -51,7 +51,9 @@ password: sintLucas
 
 https://github.com/jeroensmits-fe/js-assessment
 
-# Javascript loop exercises
+# Javascript loop statements
+
+[Presentation](https://docs.google.com/presentation/d/1UPf4V9JQKQEYndZq_WriUwLUNmfve5uoGHY2qeRVZp0/edit?usp=sharing)
 
 https://github.com/jeroensmits-fe/js-loop-exercises
 
