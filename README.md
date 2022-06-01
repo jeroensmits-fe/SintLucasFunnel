@@ -57,6 +57,10 @@ https://github.com/jeroensmits-fe/js-assessment
 
 https://github.com/jeroensmits-fe/js-loop-exercises
 
+# Refactoring
+
+https://github.com/jeroensmits-fe/refactor
+
 # Helpful links
 
 ### CSS
