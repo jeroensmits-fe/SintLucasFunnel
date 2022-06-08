@@ -61,6 +61,9 @@ https://github.com/jeroensmits-fe/js-loop-exercises
 
 https://github.com/jeroensmits-fe/refactor
 
+# Widget
+https://github.com/jeroensmits-fe/widget
+
 # Helpful links
 
 ### CSS
